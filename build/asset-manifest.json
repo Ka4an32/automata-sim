@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebAutomataConstructor/static/css/main.7771d228.chunk.css",
+    "main.js": "/WebAutomataConstructor/static/js/main.82c27484.chunk.js",
+    "main.js.map": "/WebAutomataConstructor/static/js/main.82c27484.chunk.js.map",
+    "runtime~main.js": "/WebAutomataConstructor/static/js/runtime~main.f485f77d.js",
+    "runtime~main.js.map": "/WebAutomataConstructor/static/js/runtime~main.f485f77d.js.map",
+    "static/js/2.0aeaa847.chunk.js": "/WebAutomataConstructor/static/js/2.0aeaa847.chunk.js",
+    "static/js/2.0aeaa847.chunk.js.map": "/WebAutomataConstructor/static/js/2.0aeaa847.chunk.js.map",
+    "index.html": "/WebAutomataConstructor/index.html",
+    "precache-manifest.bbf5cc8f19e4ad699b23252093e5d2d6.js": "/WebAutomataConstructor/precache-manifest.bbf5cc8f19e4ad699b23252093e5d2d6.js",
+    "service-worker.js": "/WebAutomataConstructor/service-worker.js",
+    "static/css/main.7771d228.chunk.css.map": "/WebAutomataConstructor/static/css/main.7771d228.chunk.css.map"
+  }
+}
