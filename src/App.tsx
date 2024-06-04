@@ -386,8 +386,6 @@ class App extends React.Component<appProps, appState> {
 
                                         const defaultGraph = graph || computersInfo[computerType!].defaultGraph;
 
-                                        console.log(defaultGraph);
-                                        console.log(defaultGraph["nodes"]);
                                         graphToElements(defaultGraph).nodes.forEach((v) => console.log(v))
 
                                         this.lastNodeId = defaultGraph.nodes.length;
